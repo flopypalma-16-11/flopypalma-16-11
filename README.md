@@ -19,4 +19,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
-
+### 🤝 Conecta conmigo
+<p align="left">
+<a href="www.linkedin.com/in/maría-florencia-palma-dorazio-7929b5207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="40" /></a>
+<a href="mailto:flopypalma@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tu-correo" height="30" /></a>
+</p>
