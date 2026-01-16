@@ -19,12 +19,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
-### 📊 Mis Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=flopypalma-16-11&show_icons=true&theme=radical" alt="Estadísticas de flopypalma-16-11" />
-</p>
 
-### 📈 Mis lenguajes más usados
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=flopypalma-16-11&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
