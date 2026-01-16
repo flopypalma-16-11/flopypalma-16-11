@@ -21,12 +21,7 @@
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=flopypalma-16-11&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p
-### 🤝 Conecta conmigo
-<p align="left">
-<a href="www.linkedin.com/in/maría-florencia-palma-dorazio-7929b5207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="40" /></a>
-<a href="flopypalma@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tu-correo" height="30" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=flopypalma-16-11&show_icons=true&theme=radical" alt="Estadísticas de flopypalma-16-11" />
 </p>
 
 ### 📈 Mis lenguajes más usados
