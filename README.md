@@ -3,7 +3,7 @@
 ### 🚀 Sobre mí
 - 🎓 Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 - 💻 Actualmente estoy enfocado en profundizar mis conocimientos en **JavaScript**.
-- 🏠 Trabajo en remoto desde la soleada **Sevilla**.
+- 🏠 Resido en la soleada **Sevilla** y busco mi primera oportunidad para **trabajar en remoto**.
 - 🎯 Mi objetivo es seguir creciendo como desarrollador y aportar valor en proyectos innovadores.
 
 ### 🛠️ Tecnologías y Herramientas
@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
 </p>
 
 ### 📊 Mis Estadísticas de GitHub
