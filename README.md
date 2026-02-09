@@ -5,7 +5,7 @@
 
 ### 🚀 Sobre mí
 - 🎓 Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 💻 Actualmente estoy enfocado en profundizar mis conocimientos en **JavaScript**.
+- 💻 Actualmente estoy enfocado en profundizar mis conocimientos en **JavaScript y  React**.
 - 🏠 Resido en la soleada **Sevilla** y busco mi primera oportunidad para **trabajar en remoto**.
 - 🎯 Mi objetivo es seguir creciendo como desarrolladora y aportar valor en proyectos innovadores.
 
